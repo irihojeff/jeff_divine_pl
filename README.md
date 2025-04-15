@@ -2,14 +2,14 @@
 
 > **Group Name:** ThePrimaryKeys  
 > **Course Assignment:** Exploring SQL Window Functions  
-> **Collaborators:** Kelly Cyusa & [Your Partner's Name]  
+> **Collaborators:** MUTUYIMANA Divine 26855 & IDUKUNDIRIHO Japhet 27066  
 > **Instructor GitHub Username:** `ericmaniraguha`  
 
 ---
 
 ## 📌 Project Overview
 
-This project demonstrates the use of **SQL Window Functions** using a fictional dataset from a Rwandan school — **Rwanda Academy of Excellence**. The goal is to explore how advanced analytical queries like `LAG()`, `LEAD()`, `RANK()`, `DENSE_RANK()`, and aggregate functions can be applied to real-world educational data.
+This project demonstrates the use of **SQL Window Functions** using a available dataset from a Rwandan school — **Rwanda Academy of Excellence**. The goal is to explore how advanced analytical queries like `LAG()`, `LEAD()`, `RANK()`, `DENSE_RANK()`, and aggregate functions can be applied to real-world educational data.
 
 We worked as a team to:
 - Design and populate a student dataset
