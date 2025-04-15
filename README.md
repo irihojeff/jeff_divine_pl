@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # 🎓 Rwanda Academy SQL Window Functions Project
 
 > **Group Name:** ThePrimaryKeys  
@@ -138,27 +134,7 @@ Both team members contributed equally. Our GitHub commit history reflects this.
 
 ---
 
-## 📅 Deadline & Submission
-
-- **Deadline:** April 17, 2025, 11:59 PM
-- **Submitted to GitHub with instructor access granted**
-
----
-
-## 💡 Future Improvements
-
-- Add triggers to auto-update student ranks
-- Visualize student performance with charts
-- Export results to PDF report cards
-
----
 
 ## 🔚 Thank You!
 
 This project showed us the real-world value of SQL analytics and taught us how to collaboratively build clean, tested, and well-documented codebases.
-
-```
-
----
-
-Let me know if you want the README translated into French, or if you'd like to turn it into a downloadable `.md` or `.docx` file.
