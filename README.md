@@ -1,6 +1,6 @@
 # 🎓 Rwanda Academy SQL Window Functions Project
 
-> **Group Name:** ThePrimaryKeys  
+> **Group Name:** Bright Future  
 > **Course Assignment:** Exploring SQL Window Functions  
 > **Collaborators:** MUTUYIMANA Divine 26855 & IDUKUNDIRIHO Japhet 27066  
 > **Instructor GitHub Username:** `ericmaniraguha`  
